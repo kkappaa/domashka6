@@ -7,3 +7,11 @@ section {
    text-align: center;
 }
 
+button {
+   border: 1px solid black;
+   color: green;
+  
+}
+p {
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
